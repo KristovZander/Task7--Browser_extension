@@ -5,7 +5,7 @@
 ---
 
 ## 1️⃣ Browser Used
-- Firefox *(replace with Firefox if applicable)*
+- Firefox
 
 ---
 
